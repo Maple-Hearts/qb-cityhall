@@ -9,7 +9,8 @@ Config.AvailableJobs = { -- Only used when not using qb-jobs.
     ["reporter"] = {["label"] = "News Reporter", ["isManaged"] = false},
     ["garbage"] = {["label"] = "Garbage Collector", ["isManaged"] = false},
     ["bus"] = {["label"] = "Bus Driver", ["isManaged"] = false},
-    ["hotdog"] = {["label"] = "Hot Dog Stand", ["isManaged"] = false}
+    ["hotdog"] = {["label"] = "Hot Dog Stand", ["isManaged"] = false},
+    ["technician"] = {["label"] ="Electrical Technician", ["isManaged"] = false},
 }
 
 Config.Cityhalls = {
